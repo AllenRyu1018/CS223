@@ -66,4 +66,5 @@ int main()
     {
         printf("[%.6f-%.6f]\n", (double)(start) * sample_rate, (double)(end) * sample_rate);
     }
+    return 0;
 }
